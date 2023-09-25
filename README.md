@@ -1,5 +1,5 @@
 
-# Voting Smart Contract
+# Voting Smart Contract [Indian Institute of Technology, Kanpur] [Blockchain Bootcamp] [Capstone Project]
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
