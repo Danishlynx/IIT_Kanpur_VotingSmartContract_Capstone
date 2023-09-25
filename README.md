@@ -1,6 +1,8 @@
 
 # Voting Smart Contract
 
+![License](https://img.shields.io/badge/license-MIT-green)
+
 ## Problem Statement
 
 The election is a fundamental pillar of a democratic system, which enables the public to express their views in the form of a vote. Due to their significance in our society, the election process should be transparent and reliable to ensure participants of its credibility.
